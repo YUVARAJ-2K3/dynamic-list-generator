@@ -5,6 +5,10 @@
   "version": "1.0.0",
   "publisher": "local",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YUVARAJ-2K3/dynamic-list-generator.git"
+  },
   "engines": { "vscode": "^1.80.0" },
   "categories": ["Snippets", "Other"],
   "main": "./extension.js",
