@@ -4,6 +4,10 @@
   "description": "Insert a list with any number of quoted values and navigate with Tab.",
   "version": "1.0.0",
   "publisher": "local",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/YUVARAJ-2K3/dynamic-list-generator.git"
+},
   "license": "MIT",
   "engines": { "vscode": "^1.80.0" },
   "categories": ["Snippets", "Other"],
